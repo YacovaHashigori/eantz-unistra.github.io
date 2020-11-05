@@ -5,3 +5,4 @@ permalink: /
 
 ---
 [Me contacter](/contact)
+[Mon blog](/blog)
