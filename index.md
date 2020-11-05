@@ -2,5 +2,6 @@
 layout: default
 title: Homepage
 permalink: /
-[Me contacter](/contact)
+
 ---
+[Me contacter](/contact)
